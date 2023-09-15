@@ -40,7 +40,7 @@ Before you begin, ensure you have the following prerequisites installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/FrancisCNwabueze/cloudinary-nodejs-image-uploader.git
+   git clone https://github.com/soundx-code/cloudinary-nodejs-image-uploader.git
    ```
 
 2. Change to the project directory:
